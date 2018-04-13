@@ -1,0 +1,14 @@
+.dis {
+  display: none;
+}
+
+.modal {
+  height: 100vh;
+  background-color: green;
+  display: none;
+  color: white;
+}
+
+.disOther {
+  display: block;
+}
